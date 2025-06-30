@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "android_kernel_xiaomi_mt6891",
-      "repo": "https://github.com/JustCallMeBotan/android_kernel_xiaomi_mt6893",
+      "repo": "https://github.com/LuoxueQWQ/android_kernel_xiaomi_mt689x",
       "branch": "A15",
       "device": "chopin",
       "defconfig": "chopin_user_defconfig"
