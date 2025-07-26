@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "android_kernel_xiaomi_mt6891",
-      "repo": "https://github.com/hushunz/android_kernel_xiaomi_mt",
-      "branch": "A15",
+      "repo": "https://github.com/MTK6893/android_kernel_xiaomi_mt6893",
+      "branch": "ares",
       "device": "chopin",
-      "defconfig": "chopin_user_defconfig"
+      "defconfig": "chopin_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
@@ -35,11 +35,3 @@
         "LLVM_DIS": "clang13/clang/host/linux-x86/clang-r428724/bin/llvm-dis"
       }
     },
-    "AnyKernel3": {
-      "use": true,
-      "release": true,
-      "repo": "https://github.com/Akitlove/AnyKernel3",
-      "branch": "master"
-    }
-  }
-]
