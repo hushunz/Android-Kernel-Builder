@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "android_kernel_xiaomi_mt6891",
-      "repo": "https://github.com/MTK6893/android_kernel_xiaomi_mt6893.git",
-      "branch": "ares",
-      "device": "chopin",
-      "defconfig": "chopin_defconfig"
+      "name": "android_kernel_xiaomi_mt6885",
+      "repo": "https://github.com/hushunz/android_kernel_xiaomi_mt6885.git",
+      "branch": "cgroup-v2",
+      "device": "cezanne",
+      "defconfig": "cezanne_user_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
